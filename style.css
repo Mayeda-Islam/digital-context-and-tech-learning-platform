@@ -12,3 +12,18 @@
     margin-left: 50px;
     width: 100px;
 }
+
+.footer {
+    height: 420px;
+    width: 100%;
+
+}
+
+.fa-brands,
+.fa-solid {
+    color: white;
+    /* border: 1px solid white;
+    border-radius: 30px;
+    padding: 15px; */
+    margin: 20px;
+}
